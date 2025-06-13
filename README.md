@@ -1,22 +1,3 @@
-# reliability-maintenance-optimization
-Reliability Analysis of Industrial Components Using Weibull Modeling &amp; Survival Analysis
-
-reliability-maintenance-optimization/
-│
-├── data/
-│   └── EXA1.csv                       # Real or simulated dataset
-│
-├── notebooks/
-│   ├── eda_reliability.ipynb          # EDA + Kaplan-Meier
-│   ├── weibull_modeling.ipynb         # Parametric modeling (stratified)
-│   └── cost_optimization.ipynb        # Cost-based maintenance strategy
-│
-├── reports/
-│   └── summary_decision_logic.pdf     # Optional PDF summary for stakeholders
-│
-├── requirements.txt                   # Python dependencies
-└── README.md                          # Project description & usage guide
-
 # 🔧 Reliability Maintenance Optimization with Weibull Modeling
 
 This project applies data science techniques to analyze component reliability and optimize maintenance scheduling using both survival analysis and cost simulations.
