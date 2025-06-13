@@ -48,3 +48,18 @@ A sample dataset (`EXA1.csv`) contains:
 - Improve spare part logistics
 - Optimize cost per hour of operation
 - Bridge engineering & business through data science
+  
+--- 
+
+Dependencies include:
+- pandas
+- numpy
+- matplotlib
+- lifelines
+- scipy
+
+## 📤 Author
+Jemael Nzihou  
+Veteran | Data Scientist | Reliability Optimization  
+📧 [Contact](mailto:jemaelnzihou@gmail.com)  
+🌐 [Portfolio](https://jemaelnzihou.github.io/Portfolio)
